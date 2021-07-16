@@ -12,6 +12,6 @@ Attractive User Interface for the Applications
 And Have Decent Algorithm used to Play with Computers
 A Finish Button which recall the MainPage after Finishing the Game.
 
-x-special/nautilus-clipboard
-copy
-recent:///fad782b0c554cdb49838d14b60f1b2f6
+![WhatsApp Image 2021-07-16 at 20 27 01(2)](https://user-images.githubusercontent.com/55665927/125979747-acb125b2-dbfb-4017-b0f0-75aabba3cd0b.jpeg)
+![WhatsApp Image 2021-07-16 at 20 27 01(1)](https://user-images.githubusercontent.com/55665927/125979750-9b0912e2-6948-4978-b2e3-2770da448b7c.jpeg)
+![WhatsApp Image 2021-07-16 at 20 27 01](https://user-images.githubusercontent.com/55665927/125979755-c33c431b-4fe9-4393-8069-0bf8666bca63.jpeg)
