@@ -8,5 +8,7 @@ Two options to play:-
 2. Play with Friends
 
 
-Have Decent Algorithm used to Play with Computers
+Attractive User Interface for the Applications
+And Have Decent Algorithm used to Play with Computers
+A Finish Button which recall the MainPage after Finishing the Game.
 
