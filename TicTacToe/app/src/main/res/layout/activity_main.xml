@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tic Tac Toe"
+        android:textSize="55sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_entergame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="55dp"
+        android:layout_marginTop="250dp"
+        android:background="#FFB300"
+        android:layout_marginRight="55dp"
+        android:layout_marginLeft="55dp"
+        android:backgroundTint="@color/white"
+        android:padding="15dp"
+        android:text="Play With Computer"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        app:backgroundTint="#FFB300" />
+
+
+    <Button
+        android:id="@+id/btn_with_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="55dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="10dp"
+        android:background="#FFB300"
+        android:backgroundTint="@color/white"
+        android:padding="15dp"
+        android:text="Play with Friends"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        app:backgroundTint="#FFB300" />
+
+
+</LinearLayout>
